@@ -1,0 +1,1 @@
+create-network segmentation_id=0, network_name=demo, network_type=vlan, pop_name=pop2, phy_net_name=physnet1
